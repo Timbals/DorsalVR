@@ -12,8 +12,8 @@ controls:
     B: <XRController>{RightHand}/trigger
     One: <XRController>{LeftHand}/primaryButton
     Two: <XRController>{LeftHand}/secondaryButton
-    Minus: <XRController>{LeftHand}/thumbstickClick
-    Plus: <XRController>{RightHand}/thumbstickClick
+    Minus: <XRController>{LeftHand}/thumbstickClicked
+    Plus: <XRController>{RightHand}/thumbstickClicked
     Home: <Keyboard>/space
     Recenter: <XRController>{RightHand}/grip
     D-Pad Up: 
